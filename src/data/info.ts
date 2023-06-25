@@ -89,14 +89,14 @@ export const info = {
       {
          title: "AlterYouth Webapp",
          isFeatured: true,
-         thumbnail: "/assets/images/astro-portfolio.png",
+         thumbnail: "astro-portfolio/assets/images/astro-portfolio.png",
          //  githubUrl: "https://github.com/uzzii-21/astro-portfolio",
          liveUrl: "https://www.alteryouth.com/",
       },
       {
          title: "AlterYouth App",
          isFeatured: true,
-         thumbnail: "/assets/images/astro-portfolio.png",
+         thumbnail: "astro-portfolio/assets/images/astro-portfolio.png",
          //  githubUrl: "https://github.com/uzzii-21/astro-portfolio",
          liveUrl: "https://www.alteryouth.com/app/",
       },
