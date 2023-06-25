@@ -1,5 +1,5 @@
 export const info = {
-   baseUrl: "https://astro-portfolio-uzair.vercel.app",
+   baseUrl: "https://nafis25.github.io",
    name: "Nafis Khandakar",
    jobDescription: "Web Developer",
    about: `I'm a software engineer based in Karachi, Pakistan.
