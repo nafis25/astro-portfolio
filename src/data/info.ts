@@ -53,7 +53,7 @@ export const info = {
 
    education: [
       {
-         name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
+         name: "Bangladesh Institute of Professional Science & Technology (PIPS-TECH)",
          location: "Karāchi, Sindh, Pakistan",
          startDate: "2019",
          endDate: "2022",
