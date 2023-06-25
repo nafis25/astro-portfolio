@@ -6,6 +6,7 @@ import sitemap from "@astrojs/sitemap";
 // https://astro.build/config
 export default defineConfig({
    site: "https://nafis25.github.io",
+   base: "/astro-portfolio",
    integrations: [
       tailwind(),
       sitemap({
