@@ -9,7 +9,7 @@ export const info = {
          name: "AlterYouth",
          location: "Frontend Software Engineer",
          startDate: "August 2020",
-         endDate: "Present",
+         endDate: "June 2023",
          description: [
             "My work entailed being responsible for all of the user-facing technology put out by AlterYouth. Designed and developed AlterYouth's user-friendly web and mobile apps powered by React (Next.js) and React Native respectively. Wrote some user-facing backend APIs using django, some of which, contributed to triggering automated user communications via email, sms and in-app notifications.",
          ],
