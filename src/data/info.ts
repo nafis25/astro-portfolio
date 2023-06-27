@@ -1,103 +1,88 @@
 export const info = {
    baseUrl: "https://nafis25.github.io",
    name: "Nafis Khandakar",
-   jobDescription: "Web Developer",
-   about: `I'm a software engineer based in Karachi, Pakistan.
-   I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
-   firebase and React Native with time.
-  `,
+   about: `I'm a UX & Software Developer based in Raleigh, NC, United States.
+   I enjoy designing digital user experiences and giving them life using modern tools, whether that be websites, applications, or anything in between.`,
 
    experience: [
       {
-         name: "InterNative Labs, LLC",
-         location: "Karāchi, Sindh, Pakistan",
-         startDate: "Apr 2022",
+         name: "AlterYouth",
+         location: "Frontend Software Engineer",
+         startDate: "August 2020",
          endDate: "Present",
          description: [
-            "- Developing screens and UI components for the web application using React and Tailwind.",
-            "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+            "My work entailed being responsible for all of the user-facing technology put out by AlterYouth. Designed and developed AlterYouth's user-friendly web and mobile apps powered by React (Next.js) and React Native respectively. Wrote some user-facing backend APIs using django, some of which, contributed to triggering automated user communications via email, sms and in-app notifications.",
          ],
       },
 
       {
-         name: "Coupon Approve (Remote)",
-         location: "Amsterdam, North Holland, Netherlands",
-         startDate: "Nov 2020",
-         endDate: "Apr 2022",
+         name: "Dhaka Doctor",
+         location: "Software Engineer",
+         startDate: "Jan 2020",
+         endDate: "July 2020",
          description: [
-            "✓ Developing code in accordance with appropriate design and architectural rules",
-            "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-            "✓ Help and training of other colleagues",
-            "✓ Others tasks connected to the nature of the job",
-            "✓ Code Improvements and Refactoring ",
-            "✓ Best Practices and Rules Maintainer",
+            "Used django to write APIs to create a complete emailing module. The service facilitated in the construction of the email and generation of all relevant PDFs like payment receipts/doctor prescriptions; also had the oppurtunity to craft and test the HTML email templates to go along with the emails.",
          ],
       },
 
       {
-         name: "Interns Pakistan",
-         location: "Pakistan",
-         startDate: "Oct 2020",
-         endDate: "Nov 2020",
+         name: "AlterYouth",
+         location: "UX Designer",
+         startDate: "Oct 2017",
+         endDate: "December 2019",
          description: [
-            "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-            "The internship track is built by an industry expert that let develop the skills in the areas most important ",
+            "Was part of the team that conceptualized and desgined the world's first ever P2P scholarship platform. Conducted UX research, sketched and prototyped wireframes using Adobe XD to cater to building a human-centric product.",
          ],
       },
    ],
 
    education: [
       {
-         name: "Bangladesh Institute of Professional Science & Technology (BIPS-TECH)",
-         location: "Karāchi, Sindh, Pakistan",
-         startDate: "2019",
-         endDate: "2022",
+         name: "North South University",
+         location: "Dhaka, Bangladesh",
+         startDate: "2016",
+         endDate: "2020",
          description: [
-            "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+            "Bachelor of Science in Computer Science and Engineering",
          ],
       },
       {
-         name: "Govt. Degree Boys College Buffer Zone",
-         location: "Karāchi, Sindh, Pakistan",
-         startDate: "2018",
-         endDate: "2020",
-         description: ["Intermediate, Pre-Engineering"],
+         name: "DPS STS School",
+         location: "Dhaka, Bangladesh",
+         startDate: "2014",
+         endDate: "2016",
+         description: ["Cambridge IGCSE A Levels"],
       },
       {
-         name: "Ghazi Foundation Schools & Colleges",
-         location: "Karāchi, Sindh, Pakistan",
-         startDate: "2016",
-         endDate: "2018",
-         description: ["Matriculation,  Computer Science"],
+         name: "DPS STS School",
+         location: "Dhaka, Bangladesh",
+         startDate: "2010",
+         endDate: "2014",
+         description: ["Cambridge IGCSE O Levels"],
       },
    ],
 
    socialMedia: {
-      facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-      twitter: "https://twitter.com/Uzzii_21",
-      github: "https://github.com/uzzii-21",
-      email: "uzairahmed@74372gmail.com",
-      linkedin: "https://www.linkedin.com/in/uzzii21/",
+      facebook: null,
+      twitter: null,
+      github: "https://github.com/nafis25",
+      email: "mailto:nfs55255gmail.com",
+      linkedin: "https://www.linkedin.com/in/nafisk25/",
    },
 
    projects: [
       {
-         title: "AlterYouth Webapp",
+         title: "AlterYouth Web App",
          isFeatured: true,
-         thumbnail: "/astro-portfolio/assets/images/astro-portfolio.png",
-         //  githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+         thumbnail: "/astro-portfolio/assets/images/web-preview.png",
+         githubUrl: null,
          liveUrl: "https://www.alteryouth.com/",
       },
       {
          title: "AlterYouth App",
          isFeatured: true,
-         thumbnail: "/astro-portfolio/assets/images/astro-portfolio.png",
-         //  githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+         thumbnail: "/astro-portfolio/assets/images/app-preview.png",
+         githubUrl: null,
          liveUrl: "https://www.alteryouth.com/app/",
       },
    ],
