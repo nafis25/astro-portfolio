@@ -1,10 +1,19 @@
 export const info = {
    baseUrl: "https://nafis25.github.io",
    name: "Nafis Khandakar",
-   about: `I'm a UX & Software Developer based in Raleigh, NC, United States.
+   about: `I'm a UX & Software Developer based in Raleigh, NC.
    I enjoy designing digital user experiences and giving them life using modern tools, whether that be websites, applications, or anything in between.`,
 
    experience: [
+      {
+         name: "Baxter International",
+         location: "Software Engineer",
+         startDate: "November 2023",
+         endDate: "Present",
+         description: [
+            "Developed and maintained web applications for the Voalte Nurse Call system, improving efficiency with Angular, ASP.NET, and Kubernetes. Led migration to a cloud-native architecture, designed RESTful APIs, and implemented best practices, boosting performance by 20%. Collaborated with cross-functional teams, contributed to Agile processes, and mentored team members to drive continuous improvement.",
+         ],
+      },
       {
          name: "AlterYouth",
          location: "Frontend Software Engineer",
